@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad2mehrabi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad2mehrabi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mohammad2mehrabi.github.io/profiles.github.io/](https://mohammad2mehrabi.github.io/profiles.github.io/)
-
 - 📫 How to reach me **mohammad190mehrabi@gmail.com**
-
-- 📄 Know about my experiences [https://mohammad2mehrabi.github.io/profiles.github.io/](https://mohammad2mehrabi.github.io/profiles.github.io/)
 
 - ⚡ Fun fact **I am funny**
 
