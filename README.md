@@ -1,4 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mehrabi</h1>
 
-![Group 26 (2)](https://github.com/user-attachments/assets/855ac224-e14a-4032-b202-c0d518f23a01)
-![A4 - 2 (1)](https://github.com/user-attachments/assets/f81042ca-28cb-46d1-9466-7c4aa117644e)
+![Group 27](https://github.com/user-attachments/assets/d9c4121f-e7b6-4376-ba82-09dc7eec878e)
+![Group 28](https://github.com/user-attachments/assets/4b18ef6b-6188-4224-8373-448482e15cd0)
