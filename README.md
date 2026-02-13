@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mehrabi</h1>
 
-<img src="[https://camo.githubusercontent.com/982afc80ac28eb443a3cce970d1b9809164a58da41c04cecef487f64a586e5fa/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63353534333837346239636265393864613164323039343561343565393839622f74756d626c725f6f35613572395a394f37317476707071756f315f72315f313238302e676966](https://4kwallpapers.com/images/wallpapers/sukuna-ai-art-2560x2560-17592.jpg)" alt="GitHub Banner" width="100%" />
+<img src="https://4kwallpapers.com/images/wallpapers/sukuna-ai-art-2560x2560-17592.jpg" alt="GitHub Banner" width="100%" />
 
 👨🏼‍💻 working as a web developer since 2019 <br>
 🧠 Frontend Deweloper | React.js | WordPress | Typescript | Next.js | PHP | Next.js | Rest API | HTML | SCSS | Javascript | Tailwind CSS <br>
